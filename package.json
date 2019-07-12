@@ -17,7 +17,7 @@
     "prepare": "npm run snyk-protect"
   },
   "devDependencies": {
-    "enzyme": "^3.7.0",
+    "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.7.0"
   },
   "browserslist": [
