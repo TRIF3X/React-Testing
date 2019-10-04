@@ -1404,3 +1404,8 @@ patch:
         patched: '2019-07-12T13:19:43.449Z'
     - react-scripts > babel-preset-react-app > @babel/plugin-proposal-class-properties > @babel/helper-replace-supers > @babel/traverse > lodash:
         patched: '2019-07-12T13:19:43.449Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T08:54:03.355Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T08:54:03.355Z'
